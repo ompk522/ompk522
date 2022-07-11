@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ompk522
 - 👀 I’m interested in coding, web development  
-- 🌱 I’m currently learning python,html,css ,js
+- 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on open project
 - 📫 How to reach me on mail.
 
